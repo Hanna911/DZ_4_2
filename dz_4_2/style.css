@@ -1,0 +1,74 @@
+.doska {
+	width: 600px;
+	height: 600px;
+	position: absolute;
+}
+
+.brown1_1 {
+width: 200px;
+height: 200px;
+background: #850000;
+}
+
+.black_bishop {
+width: 200px;
+height: 200px;
+position: relative;
+bottom: 200px;
+left: 200px;
+}
+
+.brown1_3 {
+width: 200px;
+height: 200px;
+background: #850000;
+position: relative;
+bottom: 400px;
+left: 400px;
+}
+
+
+.white_knight {
+width: 200px;
+height: 200px;
+position: relative;
+bottom: 400px;
+}
+
+.brown2_2 {
+width: 200px;
+height: 200px;
+background: #850000;
+position: relative;
+bottom: 600px;
+left: 200px;
+}
+
+.brown3_1 {
+width: 200px;
+height: 200px;
+background: #850000;
+position: relative;
+bottom: 600px;
+}
+
+.white_rook {
+width: 200px;
+height: 200px;
+position: relative;
+bottom: 800px;
+left: 200px;
+}
+
+.brown3_3 {
+width: 200px;
+height: 200px;
+background: #850000;
+position: relative;
+bottom: 1000px;
+left: 400px;
+}
+
+.clearfix {
+clear: both
+}
