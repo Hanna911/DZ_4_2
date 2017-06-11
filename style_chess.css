@@ -1,0 +1,23 @@
+.board {
+	width: 600px;
+	height: 600px;
+}
+
+.board div {
+width: 200px;
+height: 200px;
+float: left;
+}
+
+.board div:nth-child(odd) {
+background-color: #850000;
+}
+
+.board div:nth-child(even) {
+background-color: #FFF;
+}
+
+img {
+width: 200px;
+height: 200px;
+}
